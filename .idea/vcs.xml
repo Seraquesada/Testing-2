@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Ejemplo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejemplo2/withoutPOM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Proyecto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Proyecto/digitalTemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/seleniumTesting-applyPOM" vcs="Git" />
+  </component>
+</project>
